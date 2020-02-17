@@ -1,5 +1,7 @@
 # React Native Firebase Documentation (example)
 
+[Official Github Repo](https://github.com/invertase/react-native-firebase)
+
 ## Getting Started
 
 ### New users
